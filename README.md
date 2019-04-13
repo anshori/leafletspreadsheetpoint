@@ -1,4 +1,5 @@
-"# leafletspreadsheetpoint" 
-========
+# Leaflet JS Spreadsheet Point Marker
 
-Iki mung nganu kok
+Peta web yang menampilkan marker dari spreadsheet menggunakan php menjadi geojson layer.
+Contoh:
+[di sini](http://unsorry.net/map/spreadsheet/sample/)
