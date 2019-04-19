@@ -77,12 +77,6 @@
       });
       basemap0.addTo(map); //Memanggil basemap untuk ditampilkan ketika halaman dipanggil
       
-      var traffic = L.tileLayer('https://{s}.google.com/vt?lyrs=h@159000000,traffic|seconds_into_week:-1&style=3&x={x}&y={y}&z={z}', {
-        maxZoom: 20,
-        subdomains:['mt0','mt1','mt2','mt3'],
-      });
-      traffic.addTo(map);
-      
       /* GeoJSON Point */
         var pointsample = L.geoJson(null, {
           pointToLayer: function (feature, latlng) {
@@ -131,7 +125,7 @@
           'Google Satellite': basemap1,
         };
         var Layers = {
-            'Traffic': traffic,
+            'Kota Besar': pointsample,
         }
         var layerControl = L.control.layers(baseMaps, Layers, {collapsed:true});
         layerControl.addTo(map);
