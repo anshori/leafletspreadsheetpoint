@@ -4,9 +4,9 @@ Peta web yang menampilkan marker dari google spreadsheet menggunakan php menjadi
 
 Contoh:
 
-> Simple :point_right: [http://unsorry.net/map/spreadsheetpoint/simple/](http://unsorry.net/map/spreadsheetpoint/simple/)
+> Simple :point_right: [https://unsorry.net/map/spreadsheetpoint/simple/](https://unsorry.net/map/spreadsheetpoint/simple/)
 
-> Bootstrap Modal Popup :point_right: [http://unsorry.net/map/spreadsheetpoint/bootstrapmodalpopup/](http://unsorry.net/map/spreadsheetpoint/bootstrapmodalpopup/)
+> Bootstrap Modal Popup :point_right: [https://unsorry.net/map/spreadsheetpoint/bootstrapmodalpopup/](https://unsorry.net/map/spreadsheetpoint/bootstrapmodalpopup/)
 
 
 
